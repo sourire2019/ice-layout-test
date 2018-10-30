@@ -1,0 +1,36 @@
+{
+  "name": "@react-materials/sourire-t",
+  "version": "1.0.0",
+  "description": "",
+  "author": "sourire2018 <1627755306@qq.com>",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba/ice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ice",
+    "react",
+    "layout"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.com"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "prop-types": "^15.5.8"
+  },
+  "layoutConfig": {
+    "name": "sourire-t",
+    "title": "demo layout",
+    "categories": [
+      "layout"
+    ],
+    "screenshot": ""
+  }
+}

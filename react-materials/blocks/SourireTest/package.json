@@ -1,0 +1,28 @@
+{
+  "name": "sourire-test-block",
+  "version": "1.0.0",
+  "description": "test",
+  "author": "sourire2018 <1627755306@qq.com>",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ice",
+    "react",
+    "block"
+  ],
+  "dependencies": {
+    "react": "^16.2.0",
+    "prop-types": "^15.5.8"
+  },
+  "blockConfig": {
+    "name": "sourire-test",
+    "title": "demo block",
+    "categories": [
+      "表格"
+    ],
+    "screenshot": ""
+  }
+}
