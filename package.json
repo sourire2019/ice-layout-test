@@ -44,5 +44,13 @@
       "directory": "vue-materials",
       "type": "vue"
     }
-  ]
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.7",
+    "@fortawesome/react-fontawesome": "^0.1.3",
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "react-fontawesome": "^1.6.1",
+    "slick-carousel": "^1.8.1"
+  }
 }

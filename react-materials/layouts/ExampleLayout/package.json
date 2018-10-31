@@ -1,20 +1,42 @@
 {
-  "name": "example-layout",
+  "name": "@react-materials/example-layout",
   "version": "1.0.0",
   "description": "",
-  "author": {
-    "name": "ICE Team",
-    "email": "ice-admin@alibaba-inc.com"
+  "author": "Sourire <a12wang@126.com>",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba/ice"
   },
-  "files": ["src/", "lib/"],
+  "license": "MIT",
+  "keywords": [
+    "ice",
+    "react",
+    "layout"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.com"
+  },
   "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.7",
+    "@fortawesome/react-fontawesome": "^0.1.3",
+    "font-awesome": "^4.7.0",
+    "prop-types": "^15.5.8",
     "react": "^16.2.0",
-    "prop-types": "^15.5.8"
+    "react-fontawesome": "^1.6.1"
   },
   "layoutConfig": {
     "name": "example-layout",
-    "title": "示例区块",
-    "categories": ["其他"],
+    "title": "demo layout",
+    "categories": [
+      "layout"
+    ],
     "screenshot": ""
   }
 }
